@@ -1,1 +1,3 @@
 this file is located on branch rebase
+modified for stash 1
+>>>>>>> rebasebranch
