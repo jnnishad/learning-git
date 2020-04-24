@@ -1,1 +1,1 @@
-Example of rebase from master
+this file is located on branch rebase
